@@ -1,0 +1,92 @@
+﻿Análise de Sentimentos no Twitter
+
+Candidatosa à presidencia
+
+
+
+Resultados:
+   
+
+
+Geraldo Alckmin
+
+Total de twits positivos: 3721
+
+Total de twits negativos: 5561
+
+Total de twit neutro:    13648
+
+Porcentagem positiva  16.23 %
+
+Porcentagem negativa  24.25 %
+
+
+
+Marina Silva
+
+Total de twits positivos: 13114
+
+Total de twits negativos: 7105
+
+Total de twits neutro 28757
+
+Porcentagem positiva  26.78 %
+
+Porcentagem negativa  14.51 %
+
+
+
+Fernando Haddad
+
+Total de twits positivos: 15140
+
+Total de twits negativos: 12894
+
+Total de twitts neutro: 42182
+
+Porcentagem positiva: 21.56 %
+
+Porcentagem negativa  18.36 %
+
+
+
+Ciro Gomes
+
+Total de twits positivos: 26517
+
+Total de twits negativos: 57811
+
+Total de twits neutro: 64512
+
+Porcentagem positiva:  17.82 %
+
+Porcentagem negativa:  38.84 %
+
+
+
+Bolsonaro
+
+Total de twitts positivos: 59128
+
+Total de twitts negativos: 113865
+
+Total de twitts neutro: 217411
+
+Porcentagem positiva:  15.15 %
+
+Porcentagem negativa:  29.17 %
+
+
+
+Resto
+
+Total de twits positivos: 5443
+
+Total de twits negativos: 4591
+
+Total de twits neutros: 16661
+
+Porcentagem positivo:  20.39 %
+
+Porcentagem negativo:  17.20 %
+
